@@ -3,9 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/tehnicals/Archiver/app/src/main/res/drawable/ic_baseline_folder_24.xml" value="0.162" />
+        <entry key="..\:/tehnicals/Archiver/app/src/main/res/layout/ac_bar_home.xml" value="0.33" />
+        <entry key="..\:/tehnicals/Archiver/app/src/main/res/layout/ac_bar_second.xml" value="0.25" />
         <entry key="..\:/tehnicals/Archiver/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/tehnicals/Archiver/app/src/main/res/layout/file_row.xml" value="0.25" />
-        <entry key="..\:/tehnicals/Archiver/app/src/main/res/layout/fragment_file.xml" value="0.33" />
+        <entry key="..\:/tehnicals/Archiver/app/src/main/res/layout/content_file_list.xml" value="0.2994791666666667" />
+        <entry key="..\:/tehnicals/Archiver/app/src/main/res/layout/file_row.xml" value="0.29321663019693656" />
+        <entry key="..\:/tehnicals/Archiver/app/src/main/res/layout/fragment_file.xml" value="0.25" />
+        <entry key="..\:/tehnicals/Archiver/app/src/main/res/layout/fragment_permission.xml" value="0.5" />
+        <entry key="..\:/tehnicals/Archiver/app/src/main/res/layout/fragment_second.xml" value="0.25" />
       </map>
     </option>
   </component>

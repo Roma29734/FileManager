@@ -3,6 +3,9 @@ plugins {
     id 'com.android.application' version '7.2.2' apply false
     id 'com.android.library' version '7.2.2' apply false
     id 'org.jetbrains.kotlin.android' version '1.6.10' apply false
+//    classpath "androidx.navigation:navigation-safe-args-gradle-plugin:2.5.2"
+//    apply plugin: "androidx.navigation.safeargs.kotlin"
+    id 'androidx.navigation.safeargs' version '2.5.3' apply false
 }
 
 task clean(type: Delete) {
